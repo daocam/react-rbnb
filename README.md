@@ -1,8 +1,8 @@
 # Welcome to Apart
 
-[Click here to visit Apart]()
+[Click here to visit Apart](https://react-apart.netlify.app)
 
-This is an apartment reservation application inspired by Airbnb. Thanks to React, navigation and data transfer are ultra-fast. I have also created stateless reusable components! The content of the pages is dynamically managed with a JSON file, and images are hosted on AWS.
+This is a showcase website inspired by Airbnb. The content of the pages is dynamically managed with a JSON file, and images are hosted on AWS.
 
 ### Technical Tools:
 
